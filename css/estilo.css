@@ -1,0 +1,70 @@
+.CajaGrande{
+	border: solid;
+	box-shadow: 0 0 0.5em #000;
+}
+.Caja1{
+	align-items: center;
+	border: solid;
+	box-shadow: 0 0 0.5em #000;
+	display: flex;
+	height: 400px;
+	justify-content: space-around;
+	margin: 0 auto;
+	margin-top: 100px;
+	width: 80%;
+}
+.cajin1{
+	background: pink;
+	height: 250px;
+	width: 25%;
+}
+.cajin2{
+	background: purple;
+	height: 250px;
+	width: 35%;
+}
+
+.Caja2{
+	align-items: center;
+	border: solid;
+	box-shadow: 0 0 0.5em #000;
+	display: flex;
+	height: 400px;
+	justify-content: space-around;
+	margin: 0 auto;
+	width: 80%;
+}
+.cajing1{
+	background: lightblue;
+	height: 230px;
+	width: 20%;
+}
+.cajing2{
+	background: mistyrose;
+	height: 230px;
+	width: 20%;
+}
+
+.cajing3{
+	background: mediumturquoise;
+	height: 230px;
+	width: 20%;
+}
+
+.Caja3{
+	align-items: center;
+	border: solid;
+	box-shadow: 0 0 0.5em #000;
+	display: flex;
+	height: 400px;
+	flex-direction: row-reverse;
+	justify-content: space-around;
+	margin: 0 auto;
+	margin-bottom: 100px;
+	width: 80%;
+}
+.cajinb1{
+	background: slateblue;
+	height: 250px;
+	width: 35%;
+}
